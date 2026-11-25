@@ -3,7 +3,8 @@ Analyzed 8,800+ Netflix movies and TV shows across 12+ attributes using SQL, per
 # About This Project
 
 <!-- ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png) -->
-<img width="1900" height="950" alt="image" src="https://github.com/user-attachments/assets/f6dd5122-c99a-41b9-a80d-6d57c88a35f6" />
+<img width="1477" height="980" alt="image" src="https://github.com/user-attachments/assets/49e05be8-49ee-4bcb-b76c-80cb448fbadb" />
+
 
 **Overview**
 This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
